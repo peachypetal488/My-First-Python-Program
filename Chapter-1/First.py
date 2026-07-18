@@ -8,3 +8,13 @@ print("I'm currently learning python programming to enhance my research skills a
 print("This is my first python program, and I'm excited to continue learning and improving my programming skills.")
 print("Every expert was once a beginner, and I'm committed to putting effort into becoming proficient in both microbiology and programming.")
 print("Thank you for taking the time to read about me. I look forward to connecting with fellow enthusiasts in the field of microbiology and programming.")
+print("""
+        🐍
+       /\
+      /  \
+     (    )
+      \__/
+       ||
+       ||
+    Python Love 💚
+""")
