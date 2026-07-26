@@ -7,7 +7,7 @@ print("I believe that understanding microorganisms can lead to advancements in m
 print("I'm currently learning python programming to enhance my research skills and data analysis capabilities.")
 print("This is my first python program, and I'm excited to continue learning and improving my programming skills.")
 print("Every expert was once a beginner, and I'm committed to putting effort into becoming proficient in both microbiology and programming.")
-print("Thank you for taking the time to read about me. I look forward to connecting with fellow enthusiasts in the field of microbiology and programming.")
+print("Thank you for taking the time to read about me. I look forward to connecting with fellow enthusiasts in the field of microbiology and programming💖🎀🌸.")
 print("""
         🐍
        /\
