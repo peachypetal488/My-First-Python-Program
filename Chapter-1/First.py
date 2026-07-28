@@ -1,5 +1,5 @@
-print("Hello World")
-print("Myself Muqadas Fatima.")
+print("Hello World👋.")
+print("Myself Muqadas Fatima🌸🤍.")
 print("I'm a future microbiologist🦠🔬.")
 print("I love to explore the world of microorganisms and their impact on our lives.")
 print("In my free time, I enjoy reading scientific articles and conducting experiments💖✨.")
